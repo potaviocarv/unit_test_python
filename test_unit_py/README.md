@@ -87,4 +87,4 @@ OK
 - Arquivos atualizados: `calculadora.py`, `test_calculadora.py`.
 - Próximo passo sugerido: subir o repositório no GitHub e preencher o link abaixo.
 
-Link do repositório no GitHub: (coloque aqui o link do seu repositório)
+Link do repositório no GitHub: (https://github.com/potaviocarv/unit_test_python)
